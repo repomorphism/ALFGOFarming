@@ -56,6 +56,7 @@
 		DA864ADF1F3EBEB900383EB3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DA864AE01F3EBF6100383EB3 /* Default-568h@2x.png */,
 				DADB37CE1F36D7FE000ECE10 /* AppDelegate.swift */,
 				DADB37DA1F36D7FE000ECE10 /* Info.plist */,
 				DADB37D71F36D7FE000ECE10 /* LaunchScreen.storyboard */,
@@ -67,7 +68,6 @@
 		DADB37C21F36D7FE000ECE10 = {
 			isa = PBXGroup;
 			children = (
-				DA864AE01F3EBF6100383EB3 /* Default-568h@2x.png */,
 				DADB37CD1F36D7FE000ECE10 /* ALFGOFarming */,
 				DADB37CC1F36D7FE000ECE10 /* Products */,
 			);
